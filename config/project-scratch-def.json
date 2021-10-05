@@ -2,6 +2,7 @@
   "orgName": "Salesforce.org Hands-On Training",
   "adminEmail": "cxorg+edu@salesforce.com",
   "description": "SFDO Week of Learning",
+  "instance": "CS33",
   "template": "0TT5f000004pTdp",
   "settings": {
     "lightningExperienceSettings": {
