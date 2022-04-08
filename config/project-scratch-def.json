@@ -1,8 +1,8 @@
 {
   "orgName": "Salesforce.org Hands-On Training",
   "adminEmail": "cxorg+edu@salesforce.com",
-  "description": "SFDO Week of Learning",
-  "template": "0TT5f000004pTdp",
+  "description": "SFDO Education Summitt",
+  "template": "0TT8c00000AWoDz",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
