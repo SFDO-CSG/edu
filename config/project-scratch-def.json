@@ -2,7 +2,7 @@
   "orgName": "Salesforce.org Hands-On Training",
   "adminEmail": "cxorg+edu@salesforce.com",
   "description": "SFDO Education Summit",
-  "template": "0TT8c00000AWoMe",
+  "template": "0TT8c00000AWoMj",
   "features": ["EnableSetPasswordInApi"],
   "settings": {
     "lightningExperienceSettings": {
